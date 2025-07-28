@@ -1,15 +1,12 @@
 # 👋 Hi, I'm Utkarsh
 
-I'm a final-year B.Tech student in Electronics & Telecommunication Engineering at MIT Academy of Engineering, Pune.  
+I'm a final-year B.Tech undergrad at MIT Academy of Engineering, Pune.  
 Currently working as a Technical Intern, I’m passionate about building scalable full-stack web and mobile applications that solve real-world problems.
 
-I have a strong interest in data science, and I'm currently sharpening my skills in Python, algorithms, and system design. With a growing portfolio of impactful projects, I aim to build user-first solutions backed by solid engineering and design thinking.
 
 ---
 
-## 🔧 Technical Skills
 
-## 💻 Tech Stack
 ## 💻 Tech Stack
 
 <!-- Programming Languages -->
@@ -17,8 +14,8 @@ I have a strong interest in data science, and I'm currently sharpening my skills
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<!-- Frontend -->![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react--native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<!-- Frontend -->
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
@@ -54,8 +51,8 @@ I have a strong interest in data science, and I'm currently sharpening my skills
 
 ### 📄 Resume Rocket
 A production-ready resume builder platform with real-time preview and customization.  
-**Key Features:** WYSIWYG editor, PDF download, Firebase auth, modern UI  
-**Tech Stack:** React, Tailwind, Node.js, Express.js, MongoDB  
+**Key Features:** WYSIWYG editor, PDF download, modern UI  
+**Tech Stack:** React, Tailwind, Node.js, Express.js, SQL
 🔗 [Live](https://resumerocket.online) | 💻 [Code](https://github.com/Sayujofficia1/RESUMEBUILDER)
 
 ---
