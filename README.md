@@ -53,7 +53,7 @@ Currently working as a Technical Intern, I’m passionate about building scalabl
 A production-ready resume builder platform with real-time preview and customization.  
 **Key Features:** WYSIWYG editor, PDF download, modern UI  
 **Tech Stack:** React, Tailwind, Node.js, Express.js, SQL
-🔗 [Live](https://resumerocket.online) | 💻 [Code](https://github.com/Sayujofficia1/RESUMEBUILDER)
+🔗 [Live](https://resumerocket.online) | 💻 [Code](https://github.com/Vukung/Resume-Builder-Webapp)
 
 ---
 
