@@ -71,9 +71,8 @@ Led content strategy, branding, community growth, and production.
 ---
 
 ## 📈 GitHub Stats
+![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vukung&show_icons=true&theme=default&hide_border=false&cache_seconds=21600)
 
-![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vukung&show_icons=true&theme=default&hide_border=false)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Vukung&theme=default&hide_border=false)
 
 ---
 
