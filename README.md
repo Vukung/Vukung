@@ -1,70 +1,83 @@
 # 👋 Hi, I'm Utkarsh
 
-I'm a final-year B.Tech undergraduate at MIT Academy of Engineering, Pune, with hands-on experience building full-stack web and mobile applications.
+I'm a final-year B.Tech undergraduate at MIT Academy of Engineering, Pune, with hands-on experience building data-backed applications and backend systems that support real-world decision making.
 
-I focus on designing backend systems, working with data, and building user-facing features that solve real-world problems — from authentication and payments to real-time updates and clean UI flows.
+My work focuses on designing reliable APIs, working with structured and unstructured data, and translating raw data into usable insights — across analytics dashboards, ML pipelines, and production-ready systems.
 
 ---
 
-## 💻 Tech Stack
+## 💻 Core Skills
 
-**Languages & Core**
-Python · C++ · SQL · JavaScript  
+**Programming & Data**
+Python · SQL · C++
 
-**Frontend**
-React · Tailwind CSS · React Native  
+**Data & Analytics**
+Data Analysis · Data Pipelines · Statistical Analysis  
+Excel · Power BI · Google Analytics
 
-**Backend & APIs**
-Node.js · Express.js · Firebase Auth · REST APIs  
+**Backend Engineering**
+Node.js · Express.js · REST APIs · Authentication Systems
 
 **Databases**
-MongoDB · Firestore · SQL  
+MySQL · MongoDB · Firestore
 
 **Cloud & Tools**
-Vercel · GitHub Actions · Postman · Google Maps API · Razorpay  
-Excel · Power BI
+AWS (Foundations) · Vercel · GitHub Actions · Git · Postman
 
 ---
 
-## 💼 Projects
+## 💼 Selected Work
 
-### 📄 Resume Rocket
-A full-stack resume builder with real-time preview and structured data handling.
+### 📄 Resume Rocket - Full-Stack Data Application
+A structured resume builder designed around clean data models and scalable backend logic.
 
-- Live preview with instant validation and feedback  
-- Secure backend APIs and optimized database design  
-- Reduced resume creation time by ~80% through real-time workflows  
+- Designed normalized relational schemas supporting dynamic resume content  
+- Built secure REST APIs with JWT-based authentication  
+- Implemented real-time validation pipelines reducing resume creation time by ~80%  
 
-**Tech:** React, Tailwind, Node.js, Express.js, SQL  
-🔗 [Code](https://github.com/Vukung/Resume-Builder-Webapp)
-
----
-
-### ⚡ PulseOn EV (Intern Project)
-A mobile platform to help EV users request on-demand charging and roadside support.
-
-- Real-time van tracking with maps  
-- Role-based access and secure authentication  
-- Integrated payments and booking flow optimizations  
-
-**Tech:** React Native, Firebase, Firestore, Razorpay, Google Maps API
+**Tech:** React, Node.js, Express.js, MySQL  
+🔗 [GitHub](https://github.com/Vukung/Resume-Builder-Webapp)
 
 ---
 
-### 🎙️ Nekotachi Podcast (Community)
-Co-founded and led a youth-centric podcast community.
+### ⚡ PulseOn EV - Backend & Data Workflows (Internship)
+A production mobile platform enabling on-demand EV charging and roadside support.
 
-- Managed content strategy, production, and community growth  
-- Coordinated a multi-member team across creative and operations  
+- Built backend APIs supporting real-time booking and service assignment  
+- Implemented location-based workflows using mapping data  
+- Integrated payments and optimized booking flows through data-driven UI changes  
+
+**Tech:** Node.js, MongoDB, Firebase, Google Maps API, Razorpay
+
+---
+
+### 📊 Pune House Price Prediction - Machine Learning Project
+An end-to-end ML pipeline for real-world real estate valuation.
+
+- Cleaned and standardized noisy, non-linear datasets  
+- Evaluated multiple regression models with hyperparameter tuning  
+- Achieved an R² score of 0.55 on real-world property data  
+
+**Tech:** Python, Pandas, Scikit-learn
+
+---
+
+### 🌍 Open Source - Calendar Wallpaper Generator
+Contributor to a production open-source project with real users.
+
+- Built scalable canvas-based rendering logic  
+- Refactored shared components to improve maintainability  
+- Collaborated via PR reviews and maintainer feedback  
+
+---
+
+## 🎯 Interests
+Data Engineering · Decision Science · Applied Machine Learning  
+Building systems that scale cleanly and support informed decisions
 
 ---
 
 ## 📫 Contact
-
-📍 Pune, Maharashtra, India  
-🔗 [LinkedIn](https://www.linkedin.com/in/utkarsh-shirbhate-205609253/)  
+📍 Pune, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/utkarshshirbhate)  
 🧠 [GitHub](https://github.com/Vukung)
-
----
-
-_I aim to build systems that are practical, maintainable, and grounded in real user needs._
