@@ -2,7 +2,7 @@
 
 I'm a final-year B.Tech undergraduate at MIT Academy of Engineering, Pune, with hands-on experience building data-backed applications and backend systems that support real-world decision making.
 
-My work focuses on designing reliable APIs, working with structured and unstructured data, and translating raw data into usable insights — across analytics dashboards, ML pipelines, and production-ready systems.
+My work focuses on designing reliable APIs, working with structured and unstructured data, and translating raw data into usable insights, across analytics dashboards, ML pipelines, and production-ready systems.
 
 ---
 
