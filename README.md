@@ -5,7 +5,7 @@
 ### APPLIED AI · WORKFLOW AUTOMATION · BACKEND ENGINEERING
 
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=111827)](https://utkarsh-shirbhate-portfolio-website.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=111827)](https://vukung.me/UtkarshShirbhate1311/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-06B6D4?style=for-the-badge&labelColor=111827)](https://www.linkedin.com/in/utkarshshirbhate)
 [![Email](https://img.shields.io/badge/EMAIL-F472B6?style=for-the-badge&labelColor=111827)](mailto:UtkarshShirbhate1311@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-22C55E?style=for-the-badge&labelColor=111827)](https://github.com/Vukung)
